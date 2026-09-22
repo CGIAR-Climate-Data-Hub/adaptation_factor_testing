@@ -1,0 +1,2 @@
+study_id,innovation,comparator,context,outcome,outcome_unit,method,stress_band,estress,innovation_stress,comparator_stress,innovation_no_stress,comparator_no_stress,standard_error,sample_size,weight,stress_basis,source,notes
+trial-01,drought-tolerant maize,local maize,semi-arid maize system,annual net income,usd_per_household_year,difference-in-differences,severe,,850,500,1000,900,40,240,1200,observed_counterfactual,doi:example,Synthetic demonstration only
